@@ -2,11 +2,11 @@
 
 :mortar_board: Analysis and Systems Development Student
 
-:house_with_garden: I’m living in Brazil.
+:house_with_garden: living in Brazil.
 
-:books: I’m currently learning Front-end web development
+:books: Currently learning Front-end web development
 
-:computer: Currently studying: 
+:computer: sStudying: 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)

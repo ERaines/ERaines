@@ -2,7 +2,7 @@
 
 :mortar_board: Analysis and Systems Development Student
 
-:house_with_garden: I’m living Brazil.
+:house_with_garden: I’m living in Brazil.
 
 :books: I’m currently learning Front-end web development
 

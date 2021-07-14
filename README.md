@@ -1,5 +1,3 @@
-## Hi, I'm Edson V Ferreira
-
 :mortar_board: Analysis and Systems Development Student
 
 :house_with_garden: living in Brazil.

@@ -1,8 +1,8 @@
-:mortar_board: Analysis and Systems Development / Computer Software Engineering Student
+:mortar_board: Analysis and Systems Development / Computer Software Engineering Student.
 
 :house_with_garden: living in Brazil.
 
-:books: Currently learning Front-end web development
+:books: Currently learning Front-end web development.
 
 <br>
 

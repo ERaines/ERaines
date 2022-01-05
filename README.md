@@ -15,6 +15,11 @@
 :envelope_with_arrow: Social networks: <p>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edsonvferreira/)](https://www.linkedin.com/in/edson-vferreira/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:edson.vferreira90@gmail.com)  
-  
 </p>
+
+<div align="center">
+  <a href="https://github.com/ERaines">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ERaines&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERaines&layout=compact&langs_count=7&theme=dark"/>
+</div>
 

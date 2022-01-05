@@ -13,8 +13,10 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img height="45em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 </a>
- 
-<img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+</a>
 </div>
   
 <br>

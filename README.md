@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://github.com/ERaines">
-  <img  width="150em" src="https://github-readme-stats.vercel.app/api?username=ERaines&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img  width="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERaines&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ERaines&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERaines&layout=compact&langs_count=7&theme=dark"/>
 </div>
 

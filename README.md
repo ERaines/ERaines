@@ -5,7 +5,6 @@
 :books: Currently learning Front-end web development
 
 <br>
-<br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -13,10 +12,10 @@
 
 <div style="display: inline_block">
 <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="45em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 </div>
   
-<br>
 <br>
 
 :envelope_with_arrow: Social networks: <p>

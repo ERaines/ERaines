@@ -21,7 +21,7 @@
 <br>
 
 :envelope_with_arrow: Social networks: <p>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edsonvferreira/)](https://www.linkedin.com/in/edson-vferreira/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edsonvferreira/)](https://www.linkedin.com/in/edsonvferreira/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white&link=https://www.linkedin.com/in/edsonvferreira/)](https://www.instagram.com/edsonraines/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:edson.vferreira90@gmail.com)](mailto:edson.vferreira90@gmail.com) 
 </p>

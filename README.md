@@ -6,6 +6,8 @@
 
 <br>
 
+Beginner:
+<br>
 <div style="display: inline_block">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -18,6 +20,15 @@
 </a>
 </div>
   
+<br>
+
+Studying at the moment:
+<br>
+<div style="display: inline_block">
+<a href="https://nodejs.org/pt-br/">
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+</a>
+
 <br>
 
 :envelope_with_arrow: Social networks: <p>

@@ -2,7 +2,7 @@
 
 :house_with_garden: living in Brazil.
 
-:books: Currently learning Front-end web development.
+:books: Currently learning web development.
 
 <br>
 

@@ -1,6 +1,6 @@
 :mortar_board: Analysis and Systems Development / Computer Software Engineering Student.
 
-:house_with_garden: living in Brazil.
+:house_with_garden: living in Cork / Ireland.
 
 :books: Currently learning web development.
 

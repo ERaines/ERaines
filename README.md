@@ -1,4 +1,4 @@
-:mortar_board: Analysis and Systems Development / Software Engineering Student.
+Analysis and Systems Development / Software Engineering Student.
 
 :house_with_garden: living in Cork / Ireland.
 

@@ -19,12 +19,13 @@ Studying at the moment:
 
 <br>
 <br>
+<br>
 
 Beginner:
 <br>
 <div style="display: inline_block">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />

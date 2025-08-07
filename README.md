@@ -11,6 +11,7 @@ Studying at the moment:
 <a href="https://nodejs.org/pt-br/">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
 </a>-->
+<br>
 <div style="display: inline_block">
 <a href="https://www.python.org/">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />

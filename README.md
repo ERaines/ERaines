@@ -3,7 +3,7 @@ Analysis and Systems Development / Software Engineering Student.
 :house_with_garden: living in Cork / Ireland.
 
 <br>
-
+<!--:books: Currently learning web development.-->
 Studying at the moment:
 
 
@@ -15,8 +15,8 @@ Studying at the moment:
 <a href="https://www.python.org/">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 </a>
-<!--:books: Currently learning web development.-->
 
+<br>
 <br>
 
 Beginner:
@@ -33,7 +33,7 @@ Beginner:
 </a>
 </div>
   
-<br>
+
 <br>
 
 :envelope_with_arrow: Social networks: <p>

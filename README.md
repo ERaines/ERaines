@@ -29,13 +29,13 @@ Skills in:
 <br>
 <div style="display: inline_block">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img height="34" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img height="34" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img height="34" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 </a>
   <a href="https://git-scm.com/">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />

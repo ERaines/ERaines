@@ -24,7 +24,6 @@ Studying at the moment:
 
 <br>
 <br>
-<br>
 
 Beginner:
 <br>

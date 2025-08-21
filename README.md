@@ -1,11 +1,12 @@
 
 Junior Software engineer | Python | HTML | JS | CSS
-
+<br>
 Education:
 Analysis and Systems Development / Software Engineering .
 
 :house_with_garden: living in Cork / Ireland.
-
+<br>
+<br>
 <br>
 <!--:books: Currently learning web development.-->
 Studying at the moment:

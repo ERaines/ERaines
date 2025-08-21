@@ -33,16 +33,16 @@ skills in:
 <br>
 <div style="display: inline_block">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
 </a>
 </div>
   

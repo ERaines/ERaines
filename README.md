@@ -10,12 +10,12 @@ Analysis and Systems Development / Software Engineering .
 <br>
 <!--:books: Currently learning web development.-->
 developing skills in:
-<br>
 
 <!--<div style="display: inline_block">
 <a href="https://nodejs.org/pt-br/">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
 </a>-->
+
 <br>
 <div style="display: inline_block">
 <a href="https://www.python.org/">
@@ -23,7 +23,7 @@ developing skills in:
 </a>
 
 <a href="https://www.python.org/">
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </a>
 
 <br>

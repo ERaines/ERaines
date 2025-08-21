@@ -9,7 +9,7 @@ Analysis and Systems Development / Software Engineering .
 <br>
 <br>
 <!--:books: Currently learning web development.-->
-Studying at the moment:
+developing skills in:
 <br>
 
 <!--<div style="display: inline_block">
@@ -17,6 +17,11 @@ Studying at the moment:
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
 </a>-->
 <br>
+<div style="display: inline_block">
+<a href="https://www.python.org/">
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+</a>
+
 <div style="display: inline_block">
 <a href="https://www.python.org/">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />

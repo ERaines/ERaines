@@ -16,7 +16,6 @@ developing skills in:
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
 </a>-->
 
-<br>
 <div style="display: inline_block">
 <a href="https://www.python.org/">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
@@ -27,8 +26,6 @@ developing skills in:
 </a>
 
 <br>
-<br>
-
 skills in:
 <br>
 <div style="display: inline_block">
@@ -48,7 +45,7 @@ skills in:
   
 
 <br>
-
+<br>
 :envelope_with_arrow: Social networks: <p>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edsonvferreira/)](https://www.linkedin.com/in/edsonvferreira/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:edson.vferreira90@gmail.com)](mailto:edson.vferreira90@gmail.com) 

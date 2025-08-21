@@ -7,9 +7,8 @@ Analysis and Systems Development / Software Engineering .
 :house_with_garden: living in Cork / Ireland.
 <br>
 <br>
-<br>
 <!--:books: Currently learning web development.-->
-developing skills in:
+Developing skills in:
 
 <!--<div style="display: inline_block">
 <a href="https://nodejs.org/pt-br/">
@@ -21,12 +20,12 @@ developing skills in:
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 </a>
 
-<a href="https://www.python.org/">
+<a href="https://www.mysql.com">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </a>
 
 <br>
-skills in:
+Skills in:
 <br>
 <div style="display: inline_block">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -38,7 +37,7 @@ skills in:
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
   <img height="34" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <a href="https://git-scm.com/">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
 </a>
 </div>

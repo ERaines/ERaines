@@ -1,4 +1,8 @@
-Analysis and Systems Development / Software Engineering Student.
+
+Junior Software engineer | Python | HTML | JS | CSS
+
+Education:
+Analysis and Systems Development / Software Engineering .
 
 :house_with_garden: living in Cork / Ireland.
 

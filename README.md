@@ -1,5 +1,5 @@
 
-Junior Software engineer | Python | HTML | JS | CSS
+Junior Software engineer
 <br>
 Education:
 Analysis and Systems Development / Software Engineering .
@@ -47,8 +47,8 @@ Skills in:
 <br>
 
 :envelope_with_arrow: Social networks: <p>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edsonvferreira/)](https://www.linkedin.com/in/edsonvferreira/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:edson.vferreira90@gmail.com)](mailto:edson.vferreira90@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edsonvferreira/)](https://www.linkedin.com/in/edsonraines/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:edson.vferreira90@gmail.com)](mailto:edson.raines@gmail.com) 
 </p>
 
 

@@ -25,7 +25,7 @@ Studying at the moment:
 <br>
 <br>
 
-Beginner:
+skills in:
 <br>
 <div style="display: inline_block">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -36,6 +36,9 @@ Beginner:
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
   <img height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+</a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
 </a>
 </div>
   

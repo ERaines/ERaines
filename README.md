@@ -1,5 +1,5 @@
 
-Junior Software engineer
+
 <br>
 Education:
 Analysis and Systems Development / Software Engineering .

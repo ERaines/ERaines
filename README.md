@@ -1,14 +1,24 @@
 
 
 <br>
-Education:
-Analysis and Systems Development / Software Engineering .
 
-:house_with_garden: living in Cork / Ireland.
-<br>
-<br>
+# 
+Aspiring software engineer with a background in Systems Analysis and over 3 years of hands-on experience in IT support. Currently improving my skills in Python, SQL, and software development, while pursuing a postgraduate program in Software Engineering.
+
+I'm also highly interested in data analysis, especially the analytical challenges and the opportunity to generate meaningful insights.
+
+Proactive, analytical, and experienced in agile environments. I'm seeking a junior developer role where I can contribute to real-world solutions and grow within the tech field.
+Based in Cork, Ireland, and open to remote roles or relocation across the EU or UK.
+
+# 
+
+### Education:
+Analysis and Systems Development / Software Engineering .
+# 
+<!--:house_with_garden: living in Cork / Ireland.-->
 <!--:books: Currently learning web development.-->
-Developing skills in:
+
+### Developing skills in:
 
 <!--<div style="display: inline_block">
 <a href="https://nodejs.org/pt-br/">
@@ -23,10 +33,10 @@ Developing skills in:
 <a href="https://www.mysql.com">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </a>
+<br>
 
-<br>
-Skills in:
-<br>
+
+### Skills in:
 <div style="display: inline_block">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />

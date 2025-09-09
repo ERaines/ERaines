@@ -1,5 +1,3 @@
-
-<br>
 <br>
 
 Aspiring software engineer with a background in Systems Analysis and over 3 years of hands-on experience in IT support. Currently improving my skills in Python, SQL, and software development, while pursuing a postgraduate program in Software Engineering.

@@ -4,7 +4,7 @@ Aspiring software engineer with a background in Systems Analysis and over 3 year
 
 I'm also highly interested in data analysis, especially the analytical challenges and the opportunity to generate meaningful insights.
 
-Proactive, analytical, and experienced in agile environments. I'm seeking a junior developer role where I can contribute to real-world solutions and grow within the tech field...
+Proactive, analytical, and experienced in agile environments. I'm seeking a junior developer role where I can contribute to real-world solutions and grow within the tech field.
 Based in Cork, Ireland, and open to remote roles or relocation across the EU or UK.
 
 # . 

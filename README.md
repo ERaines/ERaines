@@ -47,7 +47,6 @@ Analysis and Systems Development / Software Engineering .
   <a href="https://git-scm.com/">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
 </a>
-
   <a href="https://www.microsoft.com/en-ie/sql-server">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 </a>

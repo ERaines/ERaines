@@ -10,7 +10,7 @@ Based in Cork, Ireland, and open to remote roles or relocation across the EU or 
 # . 
 
 ### Education:
-Analysis and Systems Development / Software Engineering ...
+Analysis and Systems Development / Software Engineering
 # . 
 <!--:house_with_garden: living in Cork / Ireland.-->
 <!--:books: Currently learning web development.-->

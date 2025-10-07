@@ -68,13 +68,3 @@ Analysis and Systems Development / Software Engineering
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:edson.vferreira90@gmail.com)](mailto:edson.raines@gmail.com) 
 </p>
 
-
-
-<div align="center">
-  <a href="https://github.com/ERaines">
-  <img height="150em"src="https://github-readme-stats.vercel.app/api?username=ERaines&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/ERaines?tab=repositories" target="_blank" rel="noopener noreferrer">
-  <img height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERaines&range=last_year&layout=compact&langs_count=7&theme=dark">
-</div>
-

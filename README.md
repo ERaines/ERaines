@@ -1,10 +1,17 @@
 <br>
 
-Aspiring software engineer with a background in Systems Analysis and over 3 years of hands-on experience in IT support. Currently improving my skills in Python, SQL, and software development, while pursuing a postgraduate program in Software Engineering.
+I’m a data-driven professional with a background in systems analysis, IT support, and data management, currently focused on advancing my career in data analytics and business intelligence.
 
-I'm also highly interested in data analysis, especially the analytical challenges and the opportunity to generate meaningful insights.
-Proactive, analytical, and experienced in agile environments. I'm seeking a junior developer role where I can contribute to real-world solutions and grow within the tech field.
-Based in Cork, Ireland, and open to remote roles or relocation across the EU or UK.
+I have hands-on experience in data cleaning, validation, and integration, working with datasets in CSV, Excel, and SQL, and developing Power BI dashboards to enhance data accuracy and reporting efficiency.
+
+Previously, as an IT Analyst, I managed academic and administrative data, ensured data quality and security through identity and access management, and implemented workflow improvements that reduced inefficiencies and supported data-driven decision-making.
+
+I hold a B.Sc. in Systems Analysis and Development and am currently pursuing a postgraduate degree in Software Engineering. My academic foundation complements my practical experience in data structures, AI fundamentals, and quality assurance.
+
+I’m passionate about data analysis, particularly in tackling analytical challenges and transforming data into meaningful insights that drive business outcomes.
+Proactive, analytical, and experienced in agile environments, I am seeking a junior developer or data analyst role where I can contribute to real-world solutions and continue to grow in the tech field.
+
+Based in Cork, Ireland, and open to remote opportunities or relocation within the EU or UK.
 
 # . 
 

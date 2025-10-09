@@ -9,7 +9,7 @@ Previously, as an IT Analyst, I managed academic and administrative data, ensure
 I hold a B.Sc. in Systems Analysis and Development and am currently pursuing a postgraduate degree in Software Engineering. My academic foundation complements my practical experience in data structures, AI fundamentals, and quality assurance.
 
 I’m passionate about data analysis, particularly in tackling analytical challenges and transforming data into meaningful insights that drive business outcomes.
-Proactive, analytical, and experienced in agile environments, I am seeking a junior developer or data analyst role where I can contribute to real-world solutions and continue to grow in the tech field.
+Proactive, analytical, and experienced in agile environments, I am seeking a junior developer or data analyst role where I can contribute to real-world solutions and continue to grow in the tech field...
 
 Based in Cork, Ireland, and open to remote opportunities or relocation within the EU or UK.
 
